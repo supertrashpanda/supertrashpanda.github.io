@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Pennsylvania State University</a>. Address. Contacts. Motto. Etc.
+
 
 profile:
   align: right
