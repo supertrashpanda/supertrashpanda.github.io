@@ -5,7 +5,7 @@ permalink: /
 
 
 profile:
-  align: right
+  align: left
   image: edb310c7-adc1-4d08-a16a-f1bb376a13e1.png
   image_circular: false # crops the image to make it circular
   more_info: >
