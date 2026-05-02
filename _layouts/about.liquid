@@ -64,14 +64,28 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% social_links %}</div>
-
-        <div class="contact-note">{{ site.contact_note }}</div>
-      </div>
-    {% endif %}
+  {% if page.social %}
+  <div class="social">
+    <div class="contact-icons">
+      {% if site.email %}
+        <a href="mailto:{{ site.email }}" title="email"><i class="fas fa-envelope"></i></a>
+      {% endif %}
+      {% if site.github_username %}
+        <a href="https://github.com/{{ site.github_username }}" title="GitHub" target="_blank"><i class="fab fa-github"></i></a>
+      {% endif %}
+      {% if site.linkedin_username %}
+        <a href="https://linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn" target="_blank"><i class="fab fa-linkedin"></i></a>
+      {% endif %}
+      {% if site.twitter_username %}
+        <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter" target="_blank"><i class="fab fa-twitter"></i></a>
+      {% endif %}
+      {% if site.cv_pdf %}
+        <a href="{{ site.cv_pdf | relative_url }}" title="CV" target="_blank"><i class="ai ai-cv"></i></a>
+      {% endif %}
+    </div>
+    <div class="contact-note">{{ site.contact_note }}</div>
+  </div>
+{% endif %}
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
