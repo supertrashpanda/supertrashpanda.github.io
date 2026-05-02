@@ -578,13 +578,6 @@ ninja.data = [{
           window.open("mailto:%79%6B%6C%35%38%34%37@%70%73%75.%65%64%75", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://medium.com/@117020170", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
