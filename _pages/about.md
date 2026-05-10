@@ -27,8 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year Ph.D. student in Political Science at Pennsylvania State University. My research lies at the intersection of comparative politics, digital political communication, and authoritarian politics.
+I am a Ph.D. student in Political Science and Social Data Analytics at Pennsylvania State University. My research lies at the intersection of comparative politics, political behavior, and political communication. Before Penn State, I received an M.A. in Quantitative Methods in the Social Sciences from Columbia University and a B.B.A. in Economics from the Chinese University of Hong Kong, Shenzhen.
 
-Before Penn State, I received an M.A. in Quantitative Methods in the Social Sciences from Columbia University and a B.B.A. in Economics from the Chinese University of Hong Kong, Shenzhen.
-
+My work combines original social media data, computational text analysis, and survey experiments to study emerging computational propaganda strategies and how government media molds citizens' political behavior in non-democratic contexts.
 
