@@ -9,7 +9,7 @@ medium_username: "117020170"
 #scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: Medium # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: assets/img/medium_logo_icon_189223.svg # can be png, svg, jpg
-  title: Medium
-  url: https://medium.com/@117020170
+#custom_social: Medium # can be any name here other than the ones already defined in the jekyll-socials plugin
+  #logo: assets/img/medium_logo_icon_189223.svg # can be png, svg, jpg
+  #title: Medium
+  #url: https://medium.com/@117020170
