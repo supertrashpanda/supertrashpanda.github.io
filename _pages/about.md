@@ -23,6 +23,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+ykl5847 [at] psu [dot] edu
 
 I am a Ph.D. student in Political Science and Social Data Analytics at Pennsylvania State University. My research lies at the intersection of comparative politics, political behavior, and political communication. Before Penn State, I received an M.A. in Quantitative Methods in the Social Sciences from Columbia University and a B.B.A. in Economics from the Chinese University of Hong Kong, Shenzhen.
 
